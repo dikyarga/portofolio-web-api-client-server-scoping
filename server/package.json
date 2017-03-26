@@ -11,8 +11,8 @@
     "client",
     "scoping"
   ],
-  "author": "Eri Irawan",
-  "license": "ISC",
+  "author": "Diky Arga",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.1",
     "cors": "^2.8.1",
